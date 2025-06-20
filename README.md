@@ -1,6 +1,3 @@
-Here’s a sample **README.md** text for your ASTU Gate Simulation project:  
-
----
 
 # **ASTU Gate Simulation**  
 ### A Python Project Using CS1Graphics  
@@ -39,7 +36,7 @@ This project was a significant milestone in my programming journey:
 
 ## **How to Run the Project**  
 1. **Prerequisites:**  
-   - Install Python (3.x recommended).  
+   - Install Python (2.7 recommended).  
    - Install the CS1Graphics library:  
      ```bash
      pip install cs1graphics
@@ -66,9 +63,3 @@ This is just the beginning of my programming journey as a **Computer Science and
 - **Adama Science and Technology University (ASTU):** For providing the inspiration and challenge.  
 
 ---
-
-Feel free to explore the code and animations. Feedback and contributions are welcome!  
-
----
-
-Let me know if you'd like any changes or additional details. 😊
