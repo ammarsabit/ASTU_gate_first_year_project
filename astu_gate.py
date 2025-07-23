@@ -798,7 +798,7 @@ def wind_turbine():
     canvas.add(blade23)
 
     def blade_animation():
-        while True:
+        for i in range(1000):
             blade11.rotate(25)
             blade12.rotate(25)
             blade13.rotate(25)
