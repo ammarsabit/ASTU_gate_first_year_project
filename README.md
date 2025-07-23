@@ -60,6 +60,11 @@ This is just the beginning of my programming journey as a **Computer Science and
 
 ## **Acknowledgments**  
 - **Self-dedication:** For building everything from scratch.  
-- **Adama Science and Technology University (ASTU):** For providing the inspiration and challenge.  
 
 ---
+
+## Screenshot
+
+![Project Screenshot](./screenshots/Screenshot-1.png)
+![Project Screenshot](./screenshots/Screenshot-2.png)
+![Project Screenshot](./screenshots/Screenshot-3.png)
